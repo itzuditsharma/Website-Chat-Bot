@@ -1,0 +1,1 @@
+This project builds a chatbot system that mimics a human-like assistant deployed on a website (e.g., LinkedIn-based assistant) and evaluates its conversational responses using Google Gemini as an evaluator model.
