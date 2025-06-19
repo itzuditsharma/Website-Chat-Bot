@@ -48,3 +48,10 @@ This project simulates a website-deployed chatbot assistant (e.g., on LinkedIn) 
 
 - Optionally, extend with Gradio for UI-based interaction.
 
+
+## Screenshots:
+
+![image](https://github.com/user-attachments/assets/fcfd768e-6a30-4fdf-9014-be462310db7f)
+
+
+
