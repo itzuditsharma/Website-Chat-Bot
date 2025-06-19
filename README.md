@@ -1,6 +1,6 @@
 This project builds a chatbot system that mimics a human-like assistant deployed on a website (e.g., LinkedIn-based assistant) and evaluates its conversational responses using Google Gemini as an evaluator model.
 
-# 🤖 Conversational Evaluator Bot with LLM and Gemini Integration
+# 🤖 Conversational Website Bot with LLM and Gemini Integration
 
 This project simulates a website-deployed chatbot assistant (e.g., on LinkedIn) and uses Google Gemini to evaluate the responses of the chatbot powered by OpenAI. It combines chatbot response generation and automated evaluation into one streamlined notebook interface.
 
